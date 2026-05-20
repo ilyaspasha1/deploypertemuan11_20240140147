@@ -1,8 +1,17 @@
-Register page
-<img width="1735" height="982" alt="image" src="https://github.com/user-attachments/assets/45653a9c-8766-4f91-851a-64ff4899f9fa" />
 Login page
-<img width="1346" height="912" alt="image" src="https://github.com/user-attachments/assets/9225fab7-06b5-44e5-b33e-879269ab0474" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35c55dbc-5869-4369-8b7a-16cd9ee75de4" />
+Regiteration page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19ff06c3-cb1a-4e77-a8c0-8b69c5ee3538" />
 Home page
-<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/3394ded6-d7b3-4e87-97c2-35e2d21e85d1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26413104-60d0-4e77-b467-2fdac32d762d" />
+WSL Running
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d34af41-9b2f-45cc-8cab-e4c4b98d4cf5" />
+
+yml file
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f7dd477-b355-4ac9-9fa5-2bc84d04b80f" />
+database
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07d5a5e1-69f9-4fb1-9d86-c2e59d4a988c" />
+
+
 
 
